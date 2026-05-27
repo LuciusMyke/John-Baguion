@@ -91,7 +91,7 @@
 /* ========== TYPING ========== */
 (function(){
   const el=document.getElementById('typed');
-  const words=['React Native Developer','Go Backend Engineer','Full Stack Developer','MongoDB Architect','building LMS platforms'];
+const words=['Junior Full Stack Developer','React Native Developer','Go Backend Engineer','MongoDB Architect','building LMS platforms'];
   let wi=0,ci=0,del=false;
   function type(){
     const w=words[wi];
